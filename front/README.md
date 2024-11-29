@@ -23,7 +23,7 @@ This is a React-based frontend application that provides a user interface for ma
 1. Make sure you have Node.js and npm installed
 2. Clone the repository
 3. Run `npm install` to install dependencies
-4. Make sure the backend API is running (see backend README)
+4. Make sure you have the `.env` file with the `API_URL` and backend API is running (see backend README)
 5. Run `npm start` to start the development server
 6. Frontend will be available at `http://localhost:3000`
 
