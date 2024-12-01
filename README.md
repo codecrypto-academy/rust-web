@@ -59,6 +59,7 @@ The backend is a RESTful API built with Rust and the Rocket framework that provi
 1. Make sure you have Node.js installed
 2. Navigate to the `front` directory
 3. Install dependencies with `npm install`
-4. Run `npm run dev` to start the development server
-5. Access the application at `http://localhost:3000`
+4. For development, copy `.env.example` to `.env`
+5. Run `npm run dev` to start the development server
+6. Access the application at `http://localhost:3000`
 
